@@ -431,7 +431,7 @@ Part of a **NextLeap AI Engineer bootcamp** series.
 | --- | --- | --- |
 | 1 | [Google Calendar AI Assistant](https://github.com/Gursimaran21/NextLeap-Google-Calendar-Assistant-04-October-2026) | Single agent + tools |
 | 2 | [Build MCP Server and Client](https://github.com/Gursimaran21/NextLeap-Built-MCP-Server-and-Client-04-October-2026) | **MCP** — tools over a standard |
-| 3 | [Multi-Agent System — Newsletter Agent](https://github.com/Gursimaran21/NextLeap-Multi-Agent-System-Newsletter-Aagent-04-October-2026) | Multi-agent orchestration |
+| 3 | [Multi-Agent System — Newsletter Agent](https://github.com/Gursimaran21/NextLeap-Multi-Agent-System-Newsletter-Agent-04-October-2026) | Multi-agent orchestration |
 | 4 | [Building & Sharing n8N Workflows](https://github.com/Gursimaran21/NextLeap-Building-N8N-Workflows-and-sharing-on-Github-04-October-2026) | Building & publishing workflows |
 | 5 | [RAG — Pinecone + Gemini](https://github.com/Gursimaran21/NextLeap-RAG-Implementation-Pinecone-Vector-DB-Gemini-Embeddings-05-October-2026) | RAG, embeddings, vector stores |
 | 6 | **This repo** | MCP in Claude · Skills · Cowork |
